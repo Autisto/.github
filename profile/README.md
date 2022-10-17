@@ -10,9 +10,8 @@
   </a>
 
 <h3 align="center">Autisto</h3>
-
   <p align="center">
-    organization_description
+    Kutje
     <br />
     <a href="https://github.com/orgs/Autisto/repositories"><strong>Explore The Repository's »</strong></a>
     <br />
@@ -52,28 +51,28 @@ This Organization Is Mainly About Keeping Track Of Stuff And Creating The Assist
 
 - [ ] CC-Elora
   - [ ] Draconic Core
-    - [x] WIP
+    - [X] WIP
   - [ ] Induction Matrix
-    - [x] WIP
+    - [X] WIP
   - [ ] Fusion Reactor
-    - [x] WIP
+    - [X] WIP
   - [ ] Elora
     - [ ] Talking
     - [ ] EnergyReading
 - [ ] D-Elora
   - [ ] Discord Version
-    - [x] WIP
+    - [X] WIP
   - [ ] Music
-    - [x] WIP
+    - [X] WIP
 - [ ] 3D-Elora
   - [ ]Adding Designs
     - [ ] SpringField
     - [ ] Rolling Table
     - [ ] Septenarius
   - [ ] Adding Pictures
-    - [x] WIP  
+    - [X] WIP  
 - [ ] Mech-Elora
-  - [x] WIP
+  - [X] WIP
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
 
