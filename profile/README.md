@@ -94,7 +94,7 @@ Project Link: [https://github.com/Autisto](https://github.com/Autisto)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Autisto/.github.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
+[contributors-url]: https://github.com/Autisto/.github/blob/main/CONTRIBUTORS.md
 [license-shield]: https://img.shields.io/github/license/Autisto/.github.svg?style=for-the-badge
 [license-url]: https://github.com/Autisto/.github/blob/master/LICENSE.md
 [product-screenshot]: Images/screenshot.jpg
