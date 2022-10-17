@@ -1,4 +1,4 @@
-Credits to
+Credits To
 
 @Cypherial
 @Othneildrew
