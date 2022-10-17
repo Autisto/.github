@@ -9,9 +9,9 @@
     <img src="Images/logo.png" alt="Logo" width="120" height="120">
   </a>
 
-<h3 align="center">Autisto</h3>
+<h3 align="center">Elora</h3>
   <p align="center">
-    Kutje
+    E= Executive L = Local O = Open R = Repository A = Assistant 
     <br />
     <a href="https://github.com/orgs/Autisto/repositories"><strong>Explore The Repository's »</strong></a>
     <br />
