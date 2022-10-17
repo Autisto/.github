@@ -1,13 +1,12 @@
 <a name="readme-top"></a>
 
 [![Contributors][contributors-shield]][contributors-url]
-[![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
 <br />
 <div align="center">
   <a href="https://github.com/Autisto">
-    <img src="Images/logo.png" alt="Logo" width="80" height="80">
+    <img src="Images/logo.png" alt="Logo" width="120" height="120">
   </a>
 
 <h3 align="center">Autisto</h3>
@@ -15,7 +14,7 @@
   <p align="center">
     organization_description
     <br />
-    <a href="https://github.com/orgs/Autisto/repositories"><strong>Explore the repository »</strong></a>
+    <a href="https://github.com/orgs/Autisto/repositories"><strong>Explore The Repository's »</strong></a>
     <br />
 </div>
 
@@ -40,9 +39,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Organization
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/Autisto)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+This Organization Is Mainly About Keeping Track Of Stuff And Creating The Assistant: `Sliganyth`, `gmail`, `autistjes@gmail.com`, `Autisto`
 
 ### Built With
 
@@ -99,7 +98,7 @@ Project Link: [https://github.com/Autisto](https://github.com/Autisto)
 [contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
 [license-shield]: https://img.shields.io/github/license/Autisto/.github.svg?style=for-the-badge
 [license-url]: https://github.com/Autisto/.github/blob/master/LICENSE.md
-[product-screenshot]: Images/screenshot.png
+[product-screenshot]: Images/screenshot.jpg
 [Lua]: https://img.shields.io/badge/lua-000000?style=for-the-badge&logo=lua&logoColor=white
 [Lua-url]: https://www.lua.org/
 [Python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
